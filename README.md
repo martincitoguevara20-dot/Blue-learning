@@ -1,5 +1,44 @@
 # Blue-learning
-
+El Problema
+Explicación del problema
+Actualmente muchos estudiantes usan asistentes de IA o aplicaciones que únicamente entregan respuestas automáticas sin explicar correctamente el procedimiento. Esto provoca:
+	•	Dependencia tecnológica.
+	•	Copia de tareas sin comprensión.
+	•	Bajo razonamiento lógico.
+	•	Desmotivación hacia las matemáticas.
+	•	Confusión por explicaciones demasiado técnicas.
+Las IA tradicionales no reconocen:
+	•	El nivel académico del estudiante.
+	•	Su forma de aprender.
+	•	Sus dificultades específicas.
+	•	Su ritmo de comprensión.
+¿A quién afecta?
+	•	Estudiantes de primaria y secundaria.
+	•	Docentes que necesitan apoyo tecnológico educativo.
+	•	Padres que no pueden ayudar en tareas matemáticas.
+	•	Instituciones educativas con bajos índices en matemáticas.
+Estadísticas reales
+	•	Más del 60% de estudiantes latinoamericanos presentan dificultades en matemáticas según evaluaciones educativas regionales.
+	•	Muchos estudiantes usan IA solo para copiar respuestas rápidas.
+	•	El aprendizaje personalizado aumenta hasta un 35% la retención de conocimiento.
+Encuestas o entrevistas realizadas
+Se pueden realizar encuestas a estudiantes con preguntas como:
+	1.	¿Entiendes las respuestas que te da la IA?
+	2.	¿Copias las respuestas sin analizarlas?
+	3.	¿Qué método te ayuda más a aprender?
+	4.	¿Te gustaría una IA que explique paso a paso?
+Análisis de resultados
+Resultados esperados:
+	•	La mayoría usa IA para rapidez y no para aprender.
+	•	Muchos estudiantes prefieren explicaciones visuales y simples.
+	•	Existe interés en una IA educativa más humana e interactiva.
+¿Por qué las soluciones actuales no son suficientes?
+Porque:
+	•	Dan respuestas genéricas.
+	•	No detectan errores de aprendizaje.
+	•	No se adaptan emocional ni académicamente.
+	•	No motivan el razonamiento matemático.
+ 
 Solución 
 
 Blue AI Learning es un asistente virtual educativo impulsado por inteligencia artificial diseñado para enseñar matemáticas de manera personalizada, interactiva e inclusiva. Surge como respuesta a un problema actual en la educación: muchas herramientas de IA únicamente entregan respuestas rápidas sin explicar los procedimientos, provocando dependencia, copia de tareas, desmotivación y bajo desarrollo del pensamiento lógico.
