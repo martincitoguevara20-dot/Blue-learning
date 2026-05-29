@@ -1,5 +1,5 @@
 # Blue-learning
-Es una asistente de IA que te ayuda a resolver problemas matemáticos y a entender como se realiza 
+
 Resumen Ejecutivo 
 
 Blue AI Learning es un asistente virtual educativo impulsado por inteligencia artificial diseñado para enseñar matemáticas de manera personalizada, interactiva e inclusiva. Surge como respuesta a un problema actual en la educación: muchas herramientas de IA únicamente entregan respuestas rápidas sin explicar los procedimientos, provocando dependencia, copia de tareas, desmotivación y bajo desarrollo del pensamiento lógico.
